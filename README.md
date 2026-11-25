@@ -9,5 +9,5 @@ Entry for `u-yuki-kato-fix-human-sleep-funniest-patch-note-f6ad4c27`.
 `main.py` (Python 3.13, stdlib only, deterministic) writes a single
 one-line patch note to `/output/entry.txt`.
 
-The note: sleep is fixed — you now wake up rested instead of tired,
-and 3 a.m. ceiling-staring is no longer a feature.
+The note: sleep no longer crashes at 3 a.m. whenever you remember
+that one embarrassing thing you said in 2019.
